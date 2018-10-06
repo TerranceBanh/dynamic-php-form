@@ -1,0 +1,1 @@
+In this phase the code will now use loops and custom functions to compact the code and make the app more dynamic

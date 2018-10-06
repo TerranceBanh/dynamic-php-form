@@ -1,0 +1,1 @@
+In this phase we will repeat the theories behind the first phase for the database. This will connect the client to the server to the database.

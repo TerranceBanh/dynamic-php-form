@@ -1,0 +1,10 @@
+In this phase the code shall be coded in the most the simple manner. Avoiding Loops, Functions. Creating a more visual format of what the code is doing.
+
+This project has the following purposes:
+  To create a dynamic form template that makes it easy to create multiple forms.
+  To create a theory to systematically create code in a organized and controlled manner avoiding human error.
+  To create a references that can act as fallbacks if the next iteration of recoding fails
+
+If loops are planned to be used hand code each iterations instead
+If functions are planned to be used only use them for long and repetitive code
+Use recursive functions if each nested loop is the same executed code

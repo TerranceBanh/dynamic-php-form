@@ -1,0 +1,4 @@
+Executing plans for this phase
+Added name to all of the tag attributes
+Added tabindex to all of the inputs and buttons
+Added a submit button
